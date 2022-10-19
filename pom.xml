@@ -32,6 +32,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+      <snapshotRepository>
+        <id>nexus</id>
+        <name>sivasankar</name>
+		<url>http://34.231.180.165:8081/repository/testtestrepo/</url>
+      </snapshotRepository>
+	  <repository>
+        <id>nexus</id>
+        <name>sivasankar</name>
+		<url>http://34.231.180.165:8081/repository/testtestrepo/</url>
+      </repository>
+	
+   </distributionManagement>
 
   <build>
     <finalName>mavenproject</finalName>
