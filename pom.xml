@@ -35,12 +35,12 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
-        <name>sivasankar</name>
+        <name>sankar</name>
 		<url>http://44.201.137.195:8081/repository/manurepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
-        <name>sivasankar</name>
+        <name>sankar</name>
 		<url>http://44.201.137.195:8081/repository/manurepo/</url>
       </repository>
 	
