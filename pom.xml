@@ -36,12 +36,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>sivasankar</name>
-		<url>http://44.202.70.41:8081/repository/todayangry/</url>
+		<url>http://44.201.137.195:8081/repository/todayangry/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>sivasankar</name>
-		<url>http://44.202.70.41:8081/repository/todayangry/</url>
+		<url>http://44.201.137.195:8081/repository/todayangry/</url>
       </repository>
 	
    </distributionManagement>
