@@ -36,12 +36,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>sankar</name>
-		<url>http://3.81.29.136:8081/repository/nexusfirstrepo/</url>
+		<url>http://44.210.79.121:8081/repository/nexusfirstrepo/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>sankar</name>
-		<url>http://3.81.29.136:8081/repository/nexusfirstrepo/</url>
+		<url>http://44.210.79.121:8081/repository/nexusfirstrepo/</url>
       </repository>
 	
    </distributionManagement>
