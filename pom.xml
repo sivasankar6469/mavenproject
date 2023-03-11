@@ -35,12 +35,12 @@
   <distributionManagement>
       <snapshotRepository>
         <id>nexus</id>
-        <name>sankar</name>
+        <name>naveen</name>
 		<url>http://18.222.134.190:8081/repository/todaynexusreposirory/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
-        <name>sankar</name>
+        <name>naveen</name>
 		<url>http://18.222.134.190:8081/repository/todaynexusreposirory/</url>
       </repository>
 	
