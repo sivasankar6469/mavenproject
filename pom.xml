@@ -36,12 +36,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>naveen</name>
-		<url>http://13.58.8.203:8081/repository/mohanrepo//</url>
+		<url>http://3.144.205.4:8081/repository/happy/</url>
       </snapshotRepository>
 	  <repository>
         <id>nexus</id>
         <name>naveen</name>
-		<url>http://13.58.8.203:8081/repository/mohanrepo//</url>
+		<url>http://3.144.205.4:8081/repository/happy/</url>
       </repository>
 	
    </distributionManagement>
